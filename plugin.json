@@ -1,0 +1,12 @@
+{
+  "Guid": "87d3c9a3-908b-49a3-95d8-cab9fbd95c02",
+  "Api": "1.0",
+  "Name": "Misc",
+  "Author": "nikv",
+  "Website": "",
+  "Repository": "",
+  "Icon": "GestureDoubleTap",
+  "Description": "Provides miscellaneous features",
+  "Version": "1.0.0.0",
+  "Main": "Artemis.Plugins.Misc.dll"
+}
